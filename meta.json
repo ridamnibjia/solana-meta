@@ -1,0 +1,6 @@
+ const metaa = {
+        name: "The 100",
+symbol: "HND",
+description: "The 100 Token",
+image: "https://drive.google.com/file/d/1dagZOe_DiWxf7t1bTPR0JyNKnahJDkXn/view"
+    }
